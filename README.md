@@ -10,3 +10,9 @@
 所以，在官网下载了`SDK`压缩包以后，手动把`SDK`文件夹放到项目根目录下。
 
 目前版本，`SDK 5.06.2026033105`。
+
+## AppId & AppKey
+
+- 1. `Uni/control.xml`这里面的`AppId`也和打包产物一样。
+
+- 2. `Uni/Uni-Info.plist`，这里面的`AppKey`和后台申请的一样。
